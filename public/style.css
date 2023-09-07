@@ -1,0 +1,20 @@
+/* for basic things */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'poppins',sans-serif;
+    
+
+}
+
+
+body{
+    background: #222831;
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+}
