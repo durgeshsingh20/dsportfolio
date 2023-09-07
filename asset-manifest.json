@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dsportfolio/static/css/main.e4ea7f27.css",
+    "main.js": "/dsportfolio/static/js/main.bedc03f3.js",
+    "static/media/durgeshimg.png": "/dsportfolio/static/media/durgeshimg.c9ee47fe1b38a19cbed4.png",
+    "static/media/react11.png": "/dsportfolio/static/media/react11.6154ccb19127ce9be5fd.png",
+    "static/media/javascript11.png": "/dsportfolio/static/media/javascript11.0957211343f8d754bc73.png",
+    "static/media/logo.png": "/dsportfolio/static/media/logo.02a426804eb2ede76a21.png",
+    "static/media/avatar.svg": "/dsportfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/instagram.png": "/dsportfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/mysql.svg": "/dsportfolio/static/media/mysql.3737d1ef555157e6069bbc4a693b96dc.svg",
+    "static/media/github-icon-1.svg": "/dsportfolio/static/media/github-icon-1.e0d7d7254ac0545743fc7af09c1e977b.svg",
+    "static/media/c++.svg": "/dsportfolio/static/media/c++.dd3d8671c481a064340e15f9623053b4.svg",
+    "static/media/mongodb.svg": "/dsportfolio/static/media/mongodb.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "static/media/python.svg": "/dsportfolio/static/media/python.cb17f7a4f3cefedcc53fd0d5db3114de.svg",
+    "index.html": "/dsportfolio/index.html",
+    "static/media/git.svg": "/dsportfolio/static/media/git.9e5efe4a58d251d445603088a1667119.svg",
+    "static/media/css3.svg": "/dsportfolio/static/media/css3.db7dfd1247623e1e9223d8ef28a37432.svg",
+    "static/media/html.svg": "/dsportfolio/static/media/html.a026abbb678246d70ee9b70e4aee972c.svg",
+    "main.e4ea7f27.css.map": "/dsportfolio/static/css/main.e4ea7f27.css.map",
+    "main.bedc03f3.js.map": "/dsportfolio/static/js/main.bedc03f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ea7f27.css",
+    "static/js/main.bedc03f3.js"
+  ]
+}
